@@ -48,7 +48,7 @@ This project analyzes customer transactions from a UK-based online retail store 
 
 ecommerce-customer-analytics/
 │
-├── data/ # Dataset (Excel or CSV format)
+├── data/ # Dataset ( CSV format)
 ├── notebooks/ # Main analysis Jupyter Notebook
 ├── README.md # Project overview
 ├── requirements.txt # Python dependencies
